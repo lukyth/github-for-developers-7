@@ -1,3 +1,7 @@
-## Kanitkorn Sujautra
+## My Bio
 
-**Favorite color:** Blue
+**Name:** Kanitkorn Sujautra  
+**From:** Bangkok, Thailand  
+**Favorite food:** Salmon Sashimi  
+**Hobby:** Reading  
+**Favorite color:** Blue  
