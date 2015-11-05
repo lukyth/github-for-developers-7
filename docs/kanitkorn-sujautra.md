@@ -5,3 +5,4 @@
 **Favorite food:** Salmon Sashimi  
 **Hobby:** Reading  
 **Favorite color:** Blue  
+**Gender:** Male  
