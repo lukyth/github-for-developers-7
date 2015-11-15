@@ -5,4 +5,5 @@
 **Favorite food:** Salmon Sashimi  
 **Hobby:** Reading  
 **Favorite color:** Blue  
-**Gender:** Male  
+**Gender:** Male
+**Birth day:** 14 Dec  
